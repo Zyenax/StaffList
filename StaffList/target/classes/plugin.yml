@@ -1,0 +1,4 @@
+name: StaffList
+version: 1.0
+main: net.stafflist.main.StaffList
+author: x_Anthony
